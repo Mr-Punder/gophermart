@@ -21,3 +21,17 @@ vendor/
 # IDEs directories
 .idea
 .vscode
+
+# logs
+*.txt
+*.md
+
+# data
+*.json
+data/
+tmp/
+.db
+
+.sh
+
+.yml
